@@ -21,4 +21,21 @@ The company debuted on the New York Stock Exchange ([NYSE: SQ](https://www.nyse.
 
 ## A Tale of Two Ecosystems
 
-Square's set of products is divided into two ecosystems, the Seller and the Cash App ecosystems. The Seller ecosystem is the suite of hardware and software for its managed payments and point of sale (POS) businesses. The Cash App ecosystem offers peer-to-peer money transfers, digital banking, and investing (stocks and bitcoin).
+Square's set of products is divided into two ecosystems, the Seller and the Cash App ecosystems. The Seller ecosystem is the suite of hardware and software that blends its managed payments and point of sale (POS) businesses. The Cash App ecosystem offers peer-to-peer money transfers, digital banking, and investing (stocks and bitcoin).
+
+### The First of Many
+
+Square's first product was a mobile credit card reader, a square device that plugged into and transmitted data through a smartphone's headphone jack. The device was compatible with both iOS and Android operating systems. These devices were first shipped in May 2010. This product offered small businesses and individuals an alternative to mainstream credit card processors. While the first reader was provided to vendors for free, each transaction processed was charged a small fee. Today, the standard fee is 2.6% + 10 cents per swipe or tap.
+
+_Product Line_
+
+_Impact & Growth_
+
+_Competitors_
+
+_Future_
+
+## References
+
+1. [Wikipedia: Square, Inc.](https://en.wikipedia.org/wiki/Square,_Inc.)
+2. [Investopedia: What is Square, Inc?](https://www.investopedia.com/articles/tech/021017/square.asp)
