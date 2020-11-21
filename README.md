@@ -37,11 +37,26 @@ By integrating the two ecosystems, Square can sell to both businesses and their 
 
 Additionally, the majority of its services are cloud-hosted solutions; Square leverages cloud technologies such as AWS Lambda and Kubernetes to build out and scale its services. The benefit of this is customers are able to use these services with little to no startup time.
 
-_Impact & Growth_
+## Competitors
 
-_Competitors_
+**Paypal.** Founded in 1998, [Paypal](https://www.paypal.com/us/home) is an online payments company that offers services such as money transfers and payment processing. It was acquired by eBay (an online auction site) in 2002 shortly after its initial public offering ([NASDAQ: PYPL](https://www.nasdaq.com/market-activity/stocks/pypl)). In 2013, Paypal acquired Venmo, a peer-to-peer money transfer mobile app similar to Cash App. Paypal offers a similar fee structure to Square for instant money transfers. Paypal reported a $247 billion total payment volume in Q3 2020, a year-over-year growth of 36%.
 
-_Future_
+**Stripe.** This payment processing software company was founded in 2010. [Stripe](https://stripe.com/) offers a set of APIs that businesses can use to integrate payment processing to their ecommerce websites. In 2019, the company introduced a point-of-sale service similar to Square's Stand and credit card reader. The company also expanded to new markets in Europe and Africa in 2020.
+
+## Growth
+
+Strategic/key acquisitions such as Weebly and Caviar. End-to-end solution.
+Capitalize on brand recognition.
+Estimated market size.
+Pandemic and touchless payment.
+
+Q3 2020 - 28.8 billion USD in gross payment volume, 12% growth YoY
+Cash app - 574% growth YoY, 361% growth YoY last quarter, thrived during pandemic. Distribution of stimulus payments and unemployment benefits. Consumers using digital payment. Consumers direct deposited into Cash App accounts.
+
+## The Future is Digital
+
+Investment in bitcoin.
+Building an ecosystem like Apple.
 
 ## References
 
@@ -53,3 +68,13 @@ _Future_
 4. [Square: Investor Presentation - September 2020](https://downloads.ctfassets.net/2d5q1td6cyxq/7aFACW8DlqMSuUWSLbhzOp/de1f61c19ae080beca0c2a4073bba83d/Square_Investor_Presentation___September_2020.pdf)
 
 5. [Square's Newest Services Show Off Its Massive Disruptive Potential](https://www.fool.com/investing/2020/09/20/squares-newest-services-show-off-its-massive-disru/)
+
+6. [Square Developer Blog](https://developer.squareup.com/blog/)
+
+7. [Wikipedia: Paypal](https://en.wikipedia.org/wiki/PayPal)
+
+8. [Paypal: Q3 2020 Investor Update](https://s1.q4cdn.com/633035571/files/doc_financials/2020/q3/PYPL_Q3-20_Investor_Update.pdf)
+
+9. [Paypay: Third Quarter 2020 Results](https://s1.q4cdn.com/633035571/files/doc_financials/2020/q3/Q3-20-PayPal-Earnings-Release.pdf)
+
+10. [Wikipedia: Stripe](https://en.wikipedia.org/wiki/Stripe_(company))
