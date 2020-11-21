@@ -45,15 +45,16 @@ Additionally, the majority of its services are cloud-hosted solutions; Square le
 
 ## Growth
 
-Strategic/key acquisitions such as Weebly and Caviar. End-to-end solution.
+Over the years, Square made several strategic acquisitions to build out their Seller ecosystem. Square acquired Weebly, a website construction service, in 2018 and Caviar, a food delivery company in 2014. Caviar was later sold to DoorDash in 2019 for $410 million. More recently, they have acquired Eloquent Labs (conversational AI) and Dessa to expand its artificial intelligence and deep learning technology stack.
+
+Square reported $28.8 billion in gross payment volume, a 4% year-over-year growth. Its Cash App ecosystem has thrived during the pandemic; it reported $2.9 billion in gross payment volume, a 332% growth year-over-year. This leap partly due to the Cash App's involvement in distribution of stimulus payments and unemployment benefits. Customers were able to direct deposit the payments to their Cash account and use it instantly.
+
+## The Future is Digital
+
+End-to-end solution.
 Capitalize on brand recognition.
 Estimated market size.
 Pandemic and touchless payment.
-
-Q3 2020 - 28.8 billion USD in gross payment volume, 12% growth YoY
-Cash app - 574% growth YoY, 361% growth YoY last quarter, thrived during pandemic. Distribution of stimulus payments and unemployment benefits. Consumers using digital payment. Consumers direct deposited into Cash App accounts.
-
-## The Future is Digital
 
 Investment in bitcoin.
 Building an ecosystem like Apple.
@@ -78,3 +79,5 @@ Building an ecosystem like Apple.
 9. [Paypay: Third Quarter 2020 Results](https://s1.q4cdn.com/633035571/files/doc_financials/2020/q3/Q3-20-PayPal-Earnings-Release.pdf)
 
 10. [Wikipedia: Stripe](https://en.wikipedia.org/wiki/Stripe_(company))
+
+11. [Crunchbase: Eloquent Labs](https://www.crunchbase.com/organization/eloquent-labs)
