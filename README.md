@@ -47,17 +47,15 @@ Additionally, the majority of its services are cloud-hosted solutions; Square le
 
 Over the years, Square made several strategic acquisitions to build out their Seller ecosystem. Square acquired Weebly, a website construction service, in 2018 and Caviar, a food delivery company in 2014. Caviar was later sold to DoorDash in 2019 for $410 million. More recently, they have acquired Eloquent Labs (conversational AI) and Dessa to expand its artificial intelligence and deep learning technology stack.
 
-Square reported $28.8 billion in gross payment volume, a 4% year-over-year growth. Its Cash App ecosystem has thrived during the pandemic; it reported $2.9 billion in gross payment volume, a 332% growth year-over-year. This leap partly due to the Cash App's involvement in distribution of stimulus payments and unemployment benefits. Customers were able to direct deposit the payments to their Cash account and use it instantly.
+Square reported $28.8 billion in gross payment volume, a 4% year-over-year growth. Its Cash App ecosystem has thrived during the pandemic; it reported $2.9 billion in gross payment volume, a 332% growth year-over-year. This leap was partly due to the Cash App's involvement in distribution of stimulus payments and unemployment benefits. Customers were able to direct deposit the payments to their Cash account and use it instantly.
 
 ## The Future is Digital
 
-End-to-end solution.
-Capitalize on brand recognition.
-Estimated market size.
-Pandemic and touchless payment.
+Square already has brand recognition with business and individual consumers. With its Seller ecosystem, Square has built a complete product for businesses. This approach is similar to what Apple has done with the Mac and iPhone and the personal computing industry.
 
-Investment in bitcoin.
-Building an ecosystem like Apple.
+Cloud technologies and the mobile phone has transformed and modernized the world. Transactions are no longer completed in person but rather digitally on a device that fits on a single hand. This year alone has shown how much we rely on touchless payment systems and online transactions to stay safe and healthy. In fact, Square has seen significant increases in activity with its Cash App this year. With its large investment of $50 million in bitcoin, Square is also betting on digital currency. While bitcoin has not become the norm of day-to-day money exchange, I expect wider adoption as more companies like Square continue to invest in that technology.
+
+So what can Square do to keep its competitive advantage over other companies? Ready their Seller ecosystem to function seamlessly with bitcoin and continue to invest in and market that technology until the world is ready to switch to a cashless currency.
 
 ## References
 
