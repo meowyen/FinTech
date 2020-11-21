@@ -79,3 +79,7 @@ So what can Square do to keep its competitive advantage over other companies? Re
 10. [Wikipedia: Stripe](https://en.wikipedia.org/wiki/Stripe_(company))
 
 11. [Crunchbase: Eloquent Labs](https://www.crunchbase.com/organization/eloquent-labs)
+
+12. [Square: Q3 2020 Shareholder Letter](https://s21.q4cdn.com/114365585/files/doc_financials/2020/Q2/Q3/3Q20-Shareholder-Letter-SQ.pdf)
+
+13. [Square: Company Overview September 2020](https://downloads.ctfassets.net/2d5q1td6cyxq/7aFACW8DlqMSuUWSLbhzOp/de1f61c19ae080beca0c2a4073bba83d/Square_Investor_Presentation___September_2020.pdf)
